@@ -1,0 +1,59 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #f2dea3;
+}
+@media (min-width: 650px) {
+  .jumbotron {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.gridfonte {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: "uppercase";
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  white-space: nowrap;
+}
+
+.elm{
+  background-color: #1c8282;
+}
+.eucalipto{
+  background-color: #24a8a8;
+}
+.blumine{
+  background-color: #1c6982;
+}
+
+.colinicio{
+  position: relative;
+  height: 100px;
+}
+
+.card-title{
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3, .h3{
+  text-align: center;
+}
+
+.tituloform{
+  font-size: 20;
+  font-weight: 500;
+}
